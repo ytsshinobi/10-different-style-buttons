@@ -9,3 +9,6 @@ Bu proyekt HTML va CSS ishlatilgan va har biri bir-biriga o'xshamaydigan 10 ta t
 ```bash
 git clone https://github.com/ytsshinobi/10-different-style-buttons.git
 cd 10-different-style-buttons-main
+
+2. HTML faylini brauzeringizda oching:
+3. Qo'shimcha - Kodni tahrirlash uchun sevimli kod muharriridan foydalaning.
